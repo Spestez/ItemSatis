@@ -1,0 +1,9 @@
+{
+    "API": {
+        "token": ""
+    },
+    "Settings": {
+        "WebhookURL":"",
+        "GirisYaptiMesaji": "{botIsmı} giriş yaptı."
+    }
+}

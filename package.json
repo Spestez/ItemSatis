@@ -1,0 +1,28 @@
+{
+  "name": "raven",
+  "version": "9.9.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "raventeam",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.14.1",
+    "instagrapi": "^5.0.0",
+    "itemsatis": "^2.0.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2",
+    "request": "^2.88.2",
+    "utilscord": "^1.7.1",
+    "wio.db": "^4.0.22"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
